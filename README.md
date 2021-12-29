@@ -1,7 +1,7 @@
 # AWS 
 
 ## test server deployed on AWS still not deployed  
-## Author: Fizzo Pannosch
+## Author: Rami zaitoun 
 
 **Version**: 1.0.0
 
